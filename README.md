@@ -14,4 +14,4 @@ To run the Medieval Market VR project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/medieval-market-vr.git
+   github.com/Abdulrahmanisk/Medieval-Market.git
